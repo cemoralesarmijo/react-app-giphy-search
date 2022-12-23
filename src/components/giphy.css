@@ -1,0 +1,30 @@
+.giphy {
+    border-radius:  6px;
+    border: 1px solid #eee;
+    display: flex;
+    margin:  16px;
+    width: 80%;
+    padding: 32px;
+    flex-direction: column;
+    text-decoration: none;
+    color: white;
+}
+
+
+.giphy img {
+    object-fit: contain;
+}
+
+
+.giphy h4 {
+    margin: 0;
+}
+
+a {
+    color: #09f;
+    font-size: 22px;
+}
+
+.loading {
+    font-size: 80px;
+}
